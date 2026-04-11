@@ -2,7 +2,7 @@
 
 A full-stack blog platform with AI-powered content generation, image management, and admin dashboard.
 
-🌐 **Live Demo:** [writezy-blog-platform-g2ky-lc2y0ityk.vercel.app](https://writezy-blog-platform-g2ky.vercel.app)
+🌐 **Live Demo:** [writezy-blog-platform-g2ky.vercel.app](https://writezy-blog-platform-g2ky.vercel.app)
 
 ---
 
