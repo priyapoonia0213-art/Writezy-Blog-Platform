@@ -10,11 +10,11 @@ const app = express();
 
 await connectDB()
 
-// Middlewares
+
 app.use(cors())
 app.use(express.json())
 
-// Routes
+
 app.get("/test", async (req, res) => {
   const result = await main("Hello AI");
   res.send(result);

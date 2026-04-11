@@ -1,4 +1,4 @@
-// configs/gemini.js
+
 
 async function main(prompt) {
   try {
