@@ -6,7 +6,7 @@
   font-family: "Arimo", sans-serif;
 }
 
-::-webkit-scrollbar{  /* to remove side scroll bar*/
+::-webkit-scrollbar{  
   display: none;
 }
 
