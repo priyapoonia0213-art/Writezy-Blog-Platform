@@ -87,7 +87,7 @@ const styles = `
     animation-delay: 0.6s;
   }
 
-  /* ---- eye ---- */
+ 
   .nf-eye {
     position: absolute;
     background-color: #EAB08C;
